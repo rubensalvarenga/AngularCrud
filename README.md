@@ -1,2 +1,2 @@
 # AngularCrud
-Porjeto feito em Angular usando JSON Server
+Projeto feito em Angular usando JSON Server
